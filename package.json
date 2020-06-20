@@ -24,7 +24,7 @@
     "consolidate": "^0.14.5",
     "express": "^4.15.4",
     "jquery": "^3.2.1",
-    "mongoose": "^4.11.7",
+    "mongoose": "^5.9.19",
     "node-underscorify": "0.0.14",
     "serve-favicon": "^2.0.1",
     "standard": "^10.0.3"
